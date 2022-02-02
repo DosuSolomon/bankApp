@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://sulaimon_d:sulaimon03111991@bankapp.p3bgz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "bartersecret": "barter_secret"
+}
